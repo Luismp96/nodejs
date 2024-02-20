@@ -49,3 +49,10 @@ console.log("Tu edad es de " + edad + " años.");
 
     const CONSTANTEEDAD = 45;
     console.log("Tu edad es de " + CONSTANTEEDAD + " años.");
+
+
+
+//PARTE 2 INI
+
+
+//PARTE 2 FIN

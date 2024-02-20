@@ -39,7 +39,7 @@ console.log(4>=3);
 console.log(4!=3);
 
     // ---> compara solo valor
-    console.log(4==4);
+    console.log(4=="4");
     // ---> compara valor y tipo de dato
     console.log(4==="4");
 
