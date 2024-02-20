@@ -54,5 +54,9 @@ console.log("Tu edad es de " + edad + " años.");
 
 //PARTE 2 INI
 
+//PALABRAS RESERVADAS
+/*break , case , catch , continue , default , delete , do , else , finally , for , function , if ,
+ in , instanceof , new , return , switch , this , throw , try , typeof , var , void , while , with */
+
 
 //PARTE 2 FIN

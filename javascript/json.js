@@ -1,5 +1,6 @@
 //PARTE 2 INI
 
+//SE DECLARA JSON
 var entrada = {"nombre":"Luis Martin",
             "edad":27,
             "email":[

@@ -18,6 +18,6 @@ agenda[2]['nombre'] = "Pepito Flores";
 agenda[2]['telefono'] = "758694110";
 agenda[2]['email'] = "ppf@gmail.com";
 
-console.table(agenda2);
+console.log(agenda);
 
 //PARTE 2 FIN
