@@ -4,7 +4,7 @@
 //PARA IMPORTAR MODULO (HTTP EN ESTE CASO)
 var servidor = require('http');
 
-//CREAMOS SERVIDOR (puerto 80)
+//CREAMOS SERVIDOR (puerto 8080)
 servidor.createServer(function(req,res){
 
     //ESCRIBIMOS EN EL HTML
