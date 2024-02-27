@@ -28,7 +28,7 @@ servidor.createServer(function(req,res){
         case "/contacto":
             res.end("Estas en la Pagina Contacto");
             break;
-        case "/contacto":
+        default:
             res.end("Pagina No Encontrada");
             break;
     }
